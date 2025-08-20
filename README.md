@@ -1,4 +1,4 @@
-#Lab Assignment 1 : Revise the sample factory design pattern
+## Lab Assignment 1 : Revise the sample factory design pattern
 
 
 Fork the existing folder.
