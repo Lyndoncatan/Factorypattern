@@ -2,7 +2,7 @@ package factoryPattern;
 
 import java.util.Scanner;
 
-public class Clinic {//Noriel Achero | 3 BSCS 1
+public class Clinic {//Lyndon Domini M. Catan| 3 BSCS 2
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
